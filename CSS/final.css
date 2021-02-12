@@ -1,0 +1,23 @@
+body {
+    background-color: #0d0d0d;
+    align-items: center;
+
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+button {
+    background-color: #0d0d0d;
+    Border: 1px solid transparent;
+    color: white;
+    Border-radius: 10px;
+    width: 800px;
+    height: 0px;
+}
+a {
+    color: #ffffff;
+ font-size: 30px;
+}

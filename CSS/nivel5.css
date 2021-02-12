@@ -1,0 +1,35 @@
+body {
+    background-image: url('../img/Level5.gif');
+    background-size: 1400px;
+}
+
+h1 {
+    font-family: "Brush Script MT", "Brush Script Std", cursive;
+    color: #ffffff;
+
+}
+
+label {
+    color: #ffffff;
+}
+
+input {
+    background-color: #040b27c4;
+    Border: 1px solid transparent;
+    color: white;
+    Border-radius: 10px; 
+    text-align: center;
+}
+
+button {
+    background-color: #040b27c4;
+    Border: 1px solid transparent;
+    color: white;
+    Border-radius: 10px;
+    width: 80px;
+    height: 30px;
+}
+a {
+    color: #ffffff;
+ font-size: 13px;
+}

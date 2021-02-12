@@ -1,0 +1,24 @@
+body {
+    background-color: salmon;
+}
+
+h1 {
+    font-family: "Brush Script MT", "Brush Script Std", cursive;
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+button {
+    background-color: #ff005da2;
+    Border: 1px solid transparent;
+    color: white;
+    Border-radius: 10px;
+    width: 60px;
+    height: 30px;
+}
+a {
+    color: #ffffff;
+ font-size: 15px;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./CSS/nivel1.css" rel="stylesheet">
+    <title>Nível 1</title>
+
+</head>
+<!-- ¥ideia do jogo2: Alimente o hamster. Vai aparecer uma equação na tela e a pessoa precisa resposnder,
+se ela responder certo, o hamster ganha uma semente. Cada nível precisa de uma certa quantidade de sementes.
+Caso o jogador erre, o hamster vai comer algum metal e vai morrer.
+Usar o input para o jogador resolver a equação.
+Procurar um codigo de sorteio para sortead as equações.
+fazer várias perguntas corridas, e o resultado final vai definir se ele alimenta ou mata o hamster
+dá pra fazer em níveis, primerio aparece a capa e um botão escreito jogar, ai leva pra uma página com os níveis
+ai a pessoa apetrta no nível e leva pro tal nível que vai ter uma série de equações, se a pessoa conseguir responder
+todas as equações ela passa de nível e alimenta o hamster, caso ela erre alguma questão, o hamster morre e ela perde
+o jogo -->
+
+<body>
+    <center>
+        <h1>Ajude o hamster!</h1>
+        <br><img src="img/ham1.gif">
+        <br>
+        <label>2+2</label>
+        <br>
+        <input type="number" id="q1">
+        <br><br>
+        <label>4+4</label>
+        <br>
+        <input type="number" id="q2">
+        <br><br>
+        <label>5+2</label>
+        <br>
+        <input type="number" id="q3">
+        <br><br>
+        <button type="button" onclick="resposta()"><a> Responder </a></button>
+    </center>
+
+    <script src="./JS/nivel1.js"></script>
+</body>
+
+</html>

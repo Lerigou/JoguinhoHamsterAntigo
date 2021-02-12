@@ -1,0 +1,19 @@
+body {
+    background-color: salmon;
+}
+
+h1 {
+    color: #ffffff;
+}
+button {
+    background-color: #ff005da2;
+    Border: 1px solid transparent;
+    color: white;
+    Border-radius: 10px;
+    width: 80px;
+    height: 30px;
+}
+a {
+    color: #ffffff;
+ font-size: 13px;
+}
